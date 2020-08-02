@@ -9,6 +9,7 @@
     <string name="action_settings">Configuración</string>
     <string name="spinner_prompt">-Seleccionar-</string>
 
+    <string name="menu_navegacion">Navegación</string>
     <string name="menu_dpersonales">Datos Personales</string>
     <string name="menu_dcorporales">Datos Corporales</string>
     <string name="menu_nutricional">Nutricional</string>
