@@ -1,0 +1,110 @@
+<resources>
+
+    <string name="app_name">HealthView</string>
+    <string name="navigation_drawer_open">Abrir</string>
+    <string name="navigation_drawer_close">Cerrar</string>
+    <string name="nav_header_title">HealthView</string>
+    <string name="nav_header_subtitle">Soregosoft</string>
+    <string name="nav_header_desc">Navegación</string>
+    <string name="action_settings">Configuración</string>
+    <string name="spinner_prompt">-Seleccionar-</string>
+
+    <string name="menu_dpersonales">Datos Personales</string>
+    <string name="menu_dcorporales">Datos Corporales</string>
+    <string name="menu_nutricional">Nutricional</string>
+    <string name="menu_recc">Recomendaciones</string>
+    <string name="menu_historial">Historial</string>
+    <string name="menu_logout">Cerrar Sesión</string>
+
+    <!-- STRINGS LAYOUT FRAGMENT_DCORPORALES.XML -->
+    <string name="f_dcorp_edad">Edad:</string>
+    <string name="f_dcorp_peso">Peso:</string>
+    <string name="f_dcorp_altura">Altura:</string>
+    <string name="f_dcorp_pulsor">Pulso radial:</string>
+    <string name="f_dcorp_genero">Género</string>
+    <string name="f_dcorp_af">Actividad física</string>
+    <string name="f_dcorp_tipocuerpo">Tipo de cuerpo:</string>
+    <string name="f_dcorp_imc">IMC:</string>
+    <string name="f_dcorp_btnCalcular">Calcular</string>
+    <string name="f_dcorp_btnLimpiar">Limpiar</string>
+    <string name="f_dcorp_metbasal">Metabolismo Basal:</string>
+    <string name="f_dcorp_mantpeso">Mantener peso:</string>
+    <string name="f_dcorp_dismpeso">Disminuir peso:</string>
+    <string name="f_dcorp_fcr">FCR:</string>
+    <string name="f_dcorp_datoscorporales">Datos corporales:</string>
+    <string-array name="genero_arrays">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+    <string-array name="af_arrays">
+        <item>Poco o ninguno</item>
+        <item>Ligero</item>
+        <item>Moderado</item>
+        <item>Fuerte</item>
+        <item>Profesional</item>
+    </string-array>
+
+    <!-- STRINGS LAYOUT FRAGMENT_DPERSONALES.XML -->
+    <string name="f_dpers_nombre">Nombre:</string>
+    <string name="f_dpers_fnac">Fecha de nacimiento:</string>
+    <string name="f_dpers_genero">Género:</string>
+    <string name="f_dpers_edad">Edad:</string>
+    <string name="f_dpers_altura">Altura:</string>
+    <string name="f_dpers_btnAgregar">Agregar</string>
+    <string name="f_dpers_btnEditar">Editar</string>
+    <string name="f_dpers_btnEliminar">Eliminar</string>
+
+    <!-- STRINGS LAYOUT FRAGMENT_DNUTRICIONALES.XML -->
+    <string name="f_dnutricionales_title">Recordatorio 24 Horas</string>
+    <string name="f_dnutricionales_alimento">Alimento</string>
+    <string name="f_dnutricionales_porcion">Porción</string>
+    <string name="f_dnutricionales_porciones">Porciones</string>
+    <string name="f_dnutricionales_search">Buscar Alimento</string>
+    <string name="f_dnutricionales_kcal">Kcal</string>
+    <string name="f_dnutricionales_carb">Carbohidratos</string>
+    <string name="f_dnutricionales_lipids">Lipidos</string>
+    <string name="f_dnutricionales_prote">Proteina</string>
+    <string name="f_dnutricionales_btnadd">Añadir</string>
+    <string name="f_dnutricionales_btndelete">Eliminar</string>
+    <string name="f_dnutricionales_btncalcular">Calcular</string>
+    <string name="f_dnutricionales_btnbuscar">Buscar</string>
+
+    <!-- STRINGS LAYOUT FRAGMENT_DNUTRICIONALES.XML -->
+    <string name="f_afisica_title">Recomendaciones</string>
+    <string name="f_afisica_recomendacion">Recomendación:</string>
+    <string name="f_afisica_tipopeso">Tipo de peso:</string>
+    <string name="f_afisica_dismpeso">Disminuir peso:</string>
+    <string name="f_afisica_mantenerp">Mantener peso:</string>
+    <string name="f_afisica_cKalobjetivo">cKal Objetivo:</string>
+    <string name="f_afisica_FCR">Frec. cardiaca de reserva</string>
+    <string name="f_afisica_btnobtener">Obtener</string>
+    <string-array name="f_afisica_recomendaciones">
+        <item>Actividad Física</item>
+        <item>Nutricional</item>
+    </string-array>
+
+    <!-- STRINGS LAYOUT FRAGMENT_LOGIN -->
+    <string name="login_title">Inicio de sesión</string>
+    <string name="login_user">Usuario</string>
+    <string name="login_password">Contraseña</string>
+    <string name="login_sign_in">Inicia Sesión</string>
+    <string name="login_register">Registrarse</string>
+
+    <!-- STRINGS LAYOUT FRAGMENT_REGISTER -->
+
+    <string name="register_title">Registro de usuario</string>
+    <string name="register_user">Usuario</string>
+    <string name="register_password">Contraseña</string>
+    <string name="register_password2">Confirmar contraseña</string>
+    <string name="register_nombre">Nombre</string>
+    <string name="register_aPaterno">Apellido paterno</string>
+    <string name="register_aMaterno">Apellido Materno</string>
+    <string name="register_fecNac">Fecha de Nacimiento</string>
+    <string name="register_register">Registrarse</string>
+    <string-array name="register_genero">
+        <item>--Seleccionar Genero--</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+</resources>
